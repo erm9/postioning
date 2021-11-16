@@ -1,4 +1,4 @@
-# portal
+# html-template
 
 An example portal page
 
